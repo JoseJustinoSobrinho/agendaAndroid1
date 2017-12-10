@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_ligar"
+        android:title="Fazer ligação" />
+
+    <item
+        android:id="@+id/item_sms"
+        android:title="Enviar SMS" />
+
+    <item
+        android:id="@+id/item_mapa"
+        android:title="Ver no Mapa" />
+
+    <item
+        android:id="@+id/item_site"
+        android:title="Visitar site" />
+
+    <item
+        android:id="@+id/item_deletar"
+        android:title="Deletar" />
+
+</menu>
